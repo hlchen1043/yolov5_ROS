@@ -26,3 +26,11 @@ this is and successfull ros package，which can run YOLOv5 in ROS
 ![yolo](./readme/yolo.png)
 
 
+# 5. Note from Julia
+```
+1. When doing catkin_make, use:
+catkin make -DPYTHON_EXECUTABLE=/usr/bin/python3
+or it will show PY_em is missing
+```
+
+
